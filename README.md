@@ -4,7 +4,7 @@ A collection of projects, assignments, and learnings from my "Data Science & Ana
 
 # 📂 Uploaded Project
 
-- **datacommerce2.pbix**: Power BI report on data commerce analysis.
+- "datacommerce2.pbix": Power BI report on data commerce analysis.
 
 # 🔍 Objective
 
