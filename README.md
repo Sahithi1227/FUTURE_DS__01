@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# FUTURE_DS__01
 
 A collection of projects, assignments, and learnings from my "Data Science & Analytics Internship" at "Future Interns".
 
