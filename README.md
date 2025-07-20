@@ -20,7 +20,7 @@ To explore real-world data using Power BI and generate business insights through
 
 Internship: July 2025
 
----
+
 
 >  by Sahithi Kotra
 
